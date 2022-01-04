@@ -2,9 +2,11 @@
 Projeto final de Sistemas Embarcados para Veículos Aéreos 
 
 ## Alunos/Desenvolvedores
-**[Felipe](#Alunos/Desenvolvedores)
-**[Rodrigo](#Alunos/Desenvolvedores)
-**[Esther Eleotério Panequi Ferreira NUSP 11356151](https://github.com/theursaparda)
+*[Felipe](#Alunos/Desenvolvedores)
+
+*[Rodrigo](#Alunos/Desenvolvedores)
+
+*[Esther Eleotério Panequi Ferreira ](https://github.com/theursaparda)
 
 # Introdução
 Esse projeto foi desenvolvido para a criação de um robô com implementação de movimento lógico atrvés de um sistema de hadware, apartir de uma placa da **Toradex**, e duas **MBEDs**. Com uma saída **PWM** controlando os 12 servos motores (2 por perna), pretendendo no final criar-se uma lógica para sua moviementação na Toradex, onde envia comando para as MBEDs, onde é programada para interpretar e realizar os comandos enviados comandadno seus motores respecivos.
